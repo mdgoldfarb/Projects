@@ -1,4 +1,4 @@
-#Here are the coding projects I made at Stony Brook University
+Here are the coding projects I made at Stony Brook University
 
 These include:
   A hotplate using MATLAB (initializePlate.m, updateTemperature.m)
